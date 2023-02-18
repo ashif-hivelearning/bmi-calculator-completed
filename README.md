@@ -1,4 +1,4 @@
-# BMI Completed Project
+# BMI Calculator Completed Project
 
 A new Flutter project.
 
